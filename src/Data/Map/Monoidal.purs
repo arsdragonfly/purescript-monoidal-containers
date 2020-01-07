@@ -1,4 +1,4 @@
-module Data.Map.Monoidal (MonoidalMap) where
+module Data.Map.Monoidal (MonoidalMap(..)) where
 
 import Prelude
 import Data.Map as M

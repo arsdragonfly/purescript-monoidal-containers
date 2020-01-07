@@ -1,4 +1,4 @@
-module Data.HashMap.Monoidal (MonoidalHashMap) where
+module Data.HashMap.Monoidal (MonoidalHashMap(..)) where
 
 import Prelude
 
